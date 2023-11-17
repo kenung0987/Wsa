@@ -44,7 +44,7 @@ canvas{
 }
 #loop{
     display: flex;
-    position: absolute;
+    position: left;
     top: 30%;
     height: 25%;
     width: 100%;
