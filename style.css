@@ -74,7 +74,7 @@ canvas{
 }
 #nav{
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: space-between;
     height: 7%;
     width: 100%;
@@ -95,7 +95,7 @@ canvas{
     border: none;
 }
 #page>h3{
-    position: absolute;
+    position: left;
     top: 55%;
     font-family: gilroy;
     font-weight: 400;
@@ -103,7 +103,7 @@ canvas{
     left: 5%;
 }
 #page>h4{
-    position: absolute;
+    position: left;
     top: 62%;
     left: 25%;
     font-family: gilroy;
